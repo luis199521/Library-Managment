@@ -14,7 +14,7 @@ A Library Management System built using Hack language. This application allows y
 ## Requirements
 
 - [XAMPP](https://www.apachefriends.org/index.html) or a similar local development environment
-- PHP (with Hack support)
+- PHP 
 - Composer (for dependency management)
 
 ## Installation
