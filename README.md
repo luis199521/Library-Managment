@@ -45,7 +45,7 @@ Add VirtualHost Configuration
 Add the following configuration to the httpd-vhosts.conf file:
 
 ```apache
-Copiar código
+
 <VirtualHost *:80>
     ServerAdmin webmaster@biblioteca.test
     DocumentRoot "C:/xampp/htdocs/Library-Managment/public"
